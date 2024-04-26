@@ -41,6 +41,8 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+### Used Local Storage for storing and fetching information of the data submitted by users
+
 
 ![image](https://github.com/arijit203/Contact_Us/assets/99786400/34235376-5345-40bb-9718-014624f20467)
 
