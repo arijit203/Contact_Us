@@ -42,4 +42,6 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ![image](https://github.com/arijit203/Contact_Us/assets/99786400/34235376-5345-40bb-9718-014624f20467)
 
+<hr>
+
 ![image](https://github.com/arijit203/Contact_Us/assets/99786400/cb9de659-7669-4e65-9fda-46a27998609f)
